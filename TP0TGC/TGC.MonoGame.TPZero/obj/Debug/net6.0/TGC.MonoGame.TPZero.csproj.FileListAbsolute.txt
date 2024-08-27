@@ -1,0 +1,60 @@
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\bin\Debug\net6.0\Content\Effects\BasicShader.xnb
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\bin\Debug\net6.0\Content\Models\scene\car.xnb
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\bin\Debug\net6.0\Content\Models\scene\city.xnb
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\bin\Debug\net6.0\Content\Models\scene\tex\Palette_0.xnb
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\bin\Debug\net6.0\TGC.MonoGame.TPZero.exe
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\bin\Debug\net6.0\TGC.MonoGame.TPZero.deps.json
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\bin\Debug\net6.0\TGC.MonoGame.TPZero.runtimeconfig.json
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\bin\Debug\net6.0\TGC.MonoGame.TPZero.dll
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\bin\Debug\net6.0\TGC.MonoGame.TPZero.pdb
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\obj\Debug\net6.0\TGC.MonoGame.TPZero.csproj.AssemblyReference.cache
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\obj\Debug\net6.0\TGC.MonoGame.TPZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\obj\Debug\net6.0\TGC.MonoGame.TPZero.AssemblyInfoInputs.cache
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\obj\Debug\net6.0\TGC.MonoGame.TPZero.AssemblyInfo.cs
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\obj\Debug\net6.0\TGC.MonoGame.TPZero.csproj.CoreCompileInputs.cache
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\obj\Debug\net6.0\TGC.MonoGame.TPZero.sourcelink.json
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\obj\Debug\net6.0\TGC.Mono.C07C19E4.Up2Date
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\obj\Debug\net6.0\TGC.MonoGame.TPZero.dll
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\obj\Debug\net6.0\refint\TGC.MonoGame.TPZero.dll
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\obj\Debug\net6.0\TGC.MonoGame.TPZero.pdb
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\obj\Debug\net6.0\TGC.MonoGame.TPZero.genruntimeconfig.cache
+C:\Mis Documentos\UTN\TGC\TP0\TGC.MonoGame.TPZero\obj\Debug\net6.0\ref\TGC.MonoGame.TPZero.dll
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\bin\Debug\net6.0\Content\Effects\BasicShader.xnb
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\bin\Debug\net6.0\Content\Models\scene\car.xnb
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\bin\Debug\net6.0\Content\Models\scene\city.xnb
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\bin\Debug\net6.0\Content\Models\scene\tex\Palette_0.xnb
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\bin\Debug\net6.0\TGC.MonoGame.TPZero.exe
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\bin\Debug\net6.0\TGC.MonoGame.TPZero.deps.json
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\bin\Debug\net6.0\TGC.MonoGame.TPZero.runtimeconfig.json
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\bin\Debug\net6.0\TGC.MonoGame.TPZero.dll
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\bin\Debug\net6.0\TGC.MonoGame.TPZero.pdb
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\obj\Debug\net6.0\TGC.MonoGame.TPZero.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\obj\Debug\net6.0\TGC.MonoGame.TPZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\obj\Debug\net6.0\TGC.MonoGame.TPZero.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\obj\Debug\net6.0\TGC.MonoGame.TPZero.AssemblyInfo.cs
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\obj\Debug\net6.0\TGC.MonoGame.TPZero.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\obj\Debug\net6.0\TGC.MonoGame.TPZero.sourcelink.json
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\obj\Debug\net6.0\TGC.Mono.C07C19E4.Up2Date
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\obj\Debug\net6.0\TGC.MonoGame.TPZero.dll
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\obj\Debug\net6.0\refint\TGC.MonoGame.TPZero.dll
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\obj\Debug\net6.0\TGC.MonoGame.TPZero.pdb
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\obj\Debug\net6.0\TGC.MonoGame.TPZero.genruntimeconfig.cache
+C:\Users\User\Source\Repos\TP0TGC\TGC.MonoGame.TPZero\obj\Debug\net6.0\ref\TGC.MonoGame.TPZero.dll
